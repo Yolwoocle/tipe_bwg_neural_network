@@ -1,0 +1,3 @@
+/mnt/d/docs/cours/mp2i/tipe/CMakeFiles/TIPE.dir
+/mnt/d/docs/cours/mp2i/tipe/CMakeFiles/edit_cache.dir
+/mnt/d/docs/cours/mp2i/tipe/CMakeFiles/rebuild_cache.dir

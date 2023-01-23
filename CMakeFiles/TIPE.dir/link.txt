@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/TIPE.dir/src/main.c.o CMakeFiles/TIPE.dir/src/vector.c.o -o TIPE  -lm 
